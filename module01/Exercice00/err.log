@@ -1,0 +1,20 @@
+"docker stop" requires at least 1 argument.
+See 'docker stop --help'.
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+Stop one or more running containers
+"docker rm" requires at least 1 argument.
+See 'docker rm --help'.
+
+Usage:  docker rm [OPTIONS] CONTAINER [CONTAINER...]
+
+Remove one or more containers
+time="2024-12-11T09:07:12+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module01/Exercice00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-12-11T09:07:12+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module01/Exercice00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network exercice00_default  Creating
+ Network exercice00_default  Created
+ Container exercice00-template-injection-app-1  Creating
+ Container exercice00-template-injection-app-1  Created
+ Container exercice00-template-injection-app-1  Starting
+ Container exercice00-template-injection-app-1  Started

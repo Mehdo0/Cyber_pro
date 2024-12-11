@@ -1,0 +1,10 @@
+time="2024-12-11T08:55:31+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module00/Exercice01/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network exercice01_default  Removing
+ Network exercice01_default  Removed
+time="2024-12-11T08:55:31+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module00/Exercice01/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network exercice01_default  Creating
+ Network exercice01_default  Created
+ Container exercice01-app-1  Creating
+ Container exercice01-app-1  Created
+ Container exercice01-app-1  Starting
+ Container exercice01-app-1  Started

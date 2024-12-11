@@ -1,0 +1,15 @@
+"docker stop" requires at least 1 argument.
+See 'docker stop --help'.
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+Stop one or more running containers
+"docker rm" requires at least 1 argument.
+See 'docker rm --help'.
+
+Usage:  docker rm [OPTIONS] CONTAINER [CONTAINER...]
+
+Remove one or more containers
+time="2024-12-11T12:35:13+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module00/Exercice00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-12-11T12:35:13+01:00" level=warning msg="/home/mmouaffa/cyber_pro/module00/Exercice00/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+failed to solve: failed to compute cache key: failed to calculate checksum of ref 7cfea68e-8b47-4eac-9b17-6dd543c54ee4::t0z3cdtgoi1gw1y1wgkbvoz55: "/.entrypoint.sh": not found
